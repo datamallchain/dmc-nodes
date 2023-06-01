@@ -1,0 +1,7 @@
+{
+  "name": "dmc-nodes",
+  "version": "1.0.0",
+  "dependencies": {
+    "dmc.js": "^1.23.1"
+  }
+}
